@@ -18,7 +18,7 @@ export const portfolioData = {
     {
       company: "Uchit Technology Pvt. Ltd.",
       position: "Software Engineer Intern",
-      duration: "2024",
+      duration: "Aug 2026 – Present",
       location: "Pune, India",
       modules: [
         {
